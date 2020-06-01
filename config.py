@@ -16,25 +16,20 @@ locale = "Asia/Shanghai"
 category_by_folder = False
 
 # For site
-site_name = "Maverick"
+site_name = "M@trixのwiki"
 site_logo = "${static_prefix}android-chrome-512x512.png"
-site_build_date = "2019-12-06T12:00+08:00"
-author = "AlanDecode"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "This is Maverick, Theme Galileo."
-key_words = ["Maverick", "AlanDecode", "Galileo", "blog"]
+site_build_date = "2020-05-31T12:00+08:00"
+author = "M@trix"
+email = "wangwanghello123@gmail.com"
+author_homepage = "https://www.blog.hackerjerry.top"
+description = "个人知识检索wiki"
+key_words = ["Maverick", "M@trix", "wiki", "白帽子"]
 language = 'english'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "Triple NULL",
-        "url": "https://www.imalan.cn",
-        "brief": "Home page for AlanDecode."
+        "name": "Blog",
+        "url": "https://www.blog.hackerjerry.top",
+        "brief": "Home page for M@trix."
     }
 ]
 nav = [
@@ -57,19 +52,9 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/wiki-matrix",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
     }
 ]
 
